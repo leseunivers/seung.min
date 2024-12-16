@@ -6,7 +6,3 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-# Custom styles
-.post-content img {
-  padding-top: 20px;
-}
