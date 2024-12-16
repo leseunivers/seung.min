@@ -5,7 +5,10 @@ title: "Part-time job interview"
 
 
 <img width="1796" alt="A-propagator" src="https://github.com/user-attachments/assets/6bd13b5e-f95f-4624-b8fc-8f43531aa029" />
+
+<div class="l">
 This is the design of the early A-propagator website from nine months ago.
+</div>
 
 
 
@@ -16,5 +19,5 @@ This is the design of the early A-propagator website from nine months ago.
   
 </div>
 
-<p> I have a part-time job interview at a company called Etners tomorrow. </p>
+I have a part-time job interview at a company called Etners tomorrow.
 What the heaven??
