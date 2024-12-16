@@ -16,4 +16,4 @@ This is the design of the early A-propagator website from nine months ago.
   
 </div>
 
-I have a part-time job interview at a company called Etners tomorrow.
+<p> I have a part-time job interview at a company called Etners tomorrow. </p>
