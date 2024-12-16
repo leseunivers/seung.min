@@ -6,7 +6,7 @@ title: "Part-time job interview"
 
 <img width="1796" alt="A-propagator" src="https://github.com/user-attachments/assets/6bd13b5e-f95f-4624-b8fc-8f43531aa029" />
 
-<div class="l">
+<div class="txt">
 This is the design of the early A-propagator website from nine months ago.
 </div>
 
