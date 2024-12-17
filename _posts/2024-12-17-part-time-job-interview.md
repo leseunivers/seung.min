@@ -8,7 +8,7 @@ title: "Part-time job interview"
 
 
   
-This is the design of the early A-propagator website from nine months ago. There has been significant progress compared to the present. The initial design of the A-propagator was based on the website I was creating for Ajou University at the beginning of the semester. After A-propagator was established, there was no reason not to use the initial web design on the 'a-propagator.com'. 
+This is the design of the early A-propagator website from nine months ago. Since then, there has been significant progress. The initial design of the A-propagator was based on the website I was creating for Ajou University at the beginning of the semester. After A-propagator was established, there was no reason not to use the initial web design on the 'a-propagator.com'. 
 
 
 
@@ -18,7 +18,7 @@ This is the design of the early A-propagator website from nine months ago. There
 
 <div class="txt-top"></div>
 
-<h3 style="padding-top: 50px;"> ETNERS </h3>
+<h3 style="padding-top: 27px;"> ETNERS </h3>
 
 
 I had a part-time job interview at a company called Etners. I was so nervous and I could feel the pressure. At the last moment, I thought about not going to the interview at all. Because there was no absolute reason to have a part-time job. But I had come a long way, and I couldn't go back. For my future, I needed to do this.
