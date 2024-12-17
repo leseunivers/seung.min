@@ -8,7 +8,7 @@ title: "Part-time job interview"
 
 
   
-This is the design of the early A-propagator website from nine months ago. There has been significant progress compared to the present. The initial design of the A-propagator was based on the website I was creating for Ajou University at the beginning of the semester. After my friend found A-propagator, there was no reason not to use the initial web design on a-propagator.com
+This is the design of the early A-propagator website from nine months ago. There has been significant progress compared to the present. The initial design of the A-propagator was based on the website I was creating for Ajou University at the beginning of the semester. After A-propagator was established, there was no reason not to use the initial web design on the 'a-propagator.com'. 
 
 
 
