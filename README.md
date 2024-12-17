@@ -1,1 +1,3 @@
-# seung.min
+# ESMNCE
+
+Official Information Channel
