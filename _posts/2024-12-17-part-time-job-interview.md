@@ -21,7 +21,7 @@ This is the design of the early A-propagator website from nine months ago. There
 <h3 style="padding-top: 50px;"> ETNERS </h3>
 
 
-I was about to have a part-time job interview at a company called Etners. I was so nervous and I could feel the pressure. At the last moment, I thought about not going to the interview at all. Because there was no absolute reason to have a part-time job. But for my future, it would be great to do it. 
+I had a part-time job interview at a company called Etners. I was so nervous and I could feel the pressure. At the last moment, I thought about not going to the interview at all. Because there was no absolute reason to have a part-time job. But for my future, it would be great to do it. 
 
 일찍 도착했는데, 어디 있어야 할지 몰라 계단에서 세액 공제 방법과 관련된 글을 읽고 있었다. 연말정산 아르바이트이기 때문에 세금 납부와 관련해서 질문한다는 블로그 게시물을 읽고 그것을 공부하고 있었다. 너무 떨리고 긴장되었지만 마침내 회사 안으로 들어갔다. I eventually went inside the ETNERS company building. It was such an unbelievable experience. I couldn't believe that I was really here. 
 
