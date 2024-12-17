@@ -15,14 +15,8 @@ This is the design of the early A-propagator website from nine months ago. There
 
 
 
-<div class="mid">
 
-  ![etners](https://github.com/user-attachments/assets/040d6722-1584-41f2-bbc0-423cbfcbfa55)
-  
-</div>
-
-
-
+<div class="txt-top"></div>
 
 I'm about to have a part-time job interview at a company called Etners. I'm so nervous and I can feel the pressure. At the last moment, I thought about not going to the interview at all. Because there is no absolute reason to have a part-time job. But for my future, it would be great to do it. 
 
