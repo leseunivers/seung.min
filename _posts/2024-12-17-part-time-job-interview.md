@@ -8,7 +8,7 @@ title: "Part-time job interview"
 
 
   
-This is the design of the early A-propagator website from nine months ago. There has been significant progress compared to the present. At first, I was planning to create a website for Ajou University. The initial design of the A-propagator was based on the college web design. After my friend created A-propagator, there was no reason not to use the initial web design on a-propagator.com
+This is the design of the early A-propagator website from nine months ago. There has been significant progress compared to the present. At first, I was planning to create a website for Ajou University. The initial design of the A-propagator was based on the college web design. After my friend found A-propagator, there was no reason not to use the initial web design on a-propagator.com
 
 
 
@@ -17,8 +17,16 @@ This is the design of the early A-propagator website from nine months ago. There
 
 <div class="mid">
   
-  <img width="438" alt="Screenshot 2024-12-16 at 10 58 43 PM" src="https://github.com/user-attachments/assets/35303d94-29e7-4323-a454-27c247e93449" class="img-top"/>
-  
+  ![etners](https://github.com/user-attachments/assets/a29254e0-0b7d-43eb-84b5-49eb8a015070)
+
 </div>
 
-I'm about to have a part-time job interview at a company called Etners. I'm so nervous and I can feel the pressure. At the last moment, I thought about not going to the interview at all. Because there is no absolute reason to have a part-time job. But for my future, it would be great to do it. "JUST DO IT."
+I'm about to have a part-time job interview at a company called Etners. I'm so nervous and I can feel the pressure. At the last moment, I thought about not going to the interview at all. Because there is no absolute reason to have a part-time job. But for my future, it would be great to do it. 
+
+일찍 도착했는데, 어디 있어야 할지 몰라 계단에서 세액 공제 방법과 관련된 글을 읽고 있었다. 연말정산 아르바이트이기 때문에 세금 납부와 관련해서 질문한다는 블로그 게시물을 읽고 그것을 공부하고 있었다. 너무 떨리고 긴장되었지만 마침내 회사 안으로 들어갔다. Oh my god, I eventually went inside the ETNERS company building. It was such an unbelievable experience. I couldn't believe that I was really here. 
+
+예상과는 다르게, 회사 내부는 정말 깔끔하고 층고가 높은 것이 매우 마음에 들었다. 바닥은 카펫 느낌의 재질이라 마치 미국 tech 기업에 들어온 것 같았다. 그런데 대기실에 들어가니 모두 양복 차림에 나이는 26~33살처럼 보였다. 내가 여기 있을 곳이 아니라고 생각했다. 나만 대학생인 것 같아서 굉장히 어색했다. 모두 다 취준생처럼 보였다.
+
+
+
+
