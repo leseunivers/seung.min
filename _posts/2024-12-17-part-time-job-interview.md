@@ -18,7 +18,7 @@ This is the design of the early A-propagator website from nine months ago. There
 
 <div class="txt-top"></div>
 
-<h3> ETNERS </h3>
+<h3 style="padding-top: 50px;"> ETNERS </h3>
 
 
 I'm about to have a part-time job interview at a company called Etners. I'm so nervous and I can feel the pressure. At the last moment, I thought about not going to the interview at all. Because there is no absolute reason to have a part-time job. But for my future, it would be great to do it. 
