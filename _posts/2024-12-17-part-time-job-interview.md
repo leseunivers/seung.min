@@ -2,8 +2,7 @@
 layout: post
 title: "Part-time job interview"
 ---
-
-
+<h3> Initial a-propagator.com design </h3>
 <img width="1796" alt="A-propagator" src="https://github.com/user-attachments/assets/6bd13b5e-f95f-4624-b8fc-8f43531aa029" />
 
 
@@ -18,7 +17,7 @@ This is the design of the early A-propagator website from nine months ago. Since
 
 <div class="txt-top"></div>
 
-<h3 style="padding-top: 27px;"> ETNERS </h3>
+<h3 style="padding-top: 10px;"> I had a part-time job interview with people wearing suits  </h3>
 
 
 I had a part-time job interview at a company called Etners. I felt nervous and I could feel the pressure. At the last moment, I thought about not going to the interview at all. Because there was no absolute reason to have a part-time job. But I had come a long way, and I couldn't go back. For my future, I needed to do this.
