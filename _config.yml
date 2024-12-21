@@ -78,7 +78,6 @@ minima:
 
   social_links:
 
-     - { platform: instagram,      user_url: "https://www.instagram.com/forfresm" }
-     - { platform: youtube,        user_url: "https://www.youtube.com/@esmnce" }
+     - { platform: instagram,      user_url: "https://www.instagram.com/forfresm" 
 
 
