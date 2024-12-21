@@ -57,7 +57,8 @@ minima:
 
 social_links:
 
-     - { platform: instagram,         user_url : "https://www.instagram.com/forfresm" }
+     - { platform: instagram,      user_url : "https://www.instagram.com/forfresm" }
+     - { platform: youtube,        user_url:  "https://www.youtube.com/@esmnce" }
   # Generate social links in footer.
   #social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
