@@ -1,7 +1,7 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-.img-top {
+.top {
   
   padding-top: 177px;
   
@@ -13,19 +13,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-top: 177px;
 
 }
 
 
 
-.txt-top {
+.m-top {
 
   padding-top: 100px;
   
 }
 
 
-.txt-s-top {
+.s-top {
 
   padding-top: 50px;
 
