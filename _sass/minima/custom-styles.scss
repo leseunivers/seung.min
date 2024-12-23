@@ -42,21 +42,22 @@
 }
 
 
-@media screen and (min-width: $on-medium) {
-  p {
-    
-    line-height: 1.67;
-    font-size: 15.31px;
-    
-  }
-}
-
-  
-@media screen and (max-width: 599px) {
+p {
 
   line-height: 1.67;
-  font-size: 13px;
+  font-size: 15.31px;
 
+}
+
+
+@media (max-width: 600px) {
+
+  p {
+
+    line-height: 1.67;
+    font-size: 13px;
+
+  }
 }
 
 h3 {
