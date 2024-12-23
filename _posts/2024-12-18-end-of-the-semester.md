@@ -13,4 +13,4 @@ I feel like I haven't really focused on studying this year. Since I haven't stud
 However, if I hadn't done this year, I would have never known this. And to make a bit of an excuse, I really had no interest in math and science. Even if I could go back to the beginning of my first year, I don't think I would study harder. 
 I feel like this experience was important for helping me to understand what I should do and who I truly am. If I get the opportunity to study in a field I enjoy, I will really put my best effort into it. 
 
-Help
+
