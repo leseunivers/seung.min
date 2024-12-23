@@ -24,7 +24,6 @@ title: "Winter vacation"
 
 
 
-<div class="s-top"></div>
 
 
 <div class="img">
