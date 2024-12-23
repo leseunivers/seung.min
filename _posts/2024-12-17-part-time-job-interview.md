@@ -15,7 +15,7 @@ This is the design of the early A-propagator website from nine months ago. Since
 
 
 
-<div class="txt-top"></div>
+<div class="m-top"></div>
 
 <h3 style="padding-top: 10px;"> I had a part-time job interview with people wearing suits  </h3>
 
