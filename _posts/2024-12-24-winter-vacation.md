@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winter vacation
+title: "Winter vacation"
 ---
 
 
@@ -27,6 +27,6 @@ title: Winter vacation
 
 
 
-![IMG_1369](https://github.com/user-attachments/assets/39c35fde-54cc-48d9-a352-83cc9c4530d0)
+![IMG_0560](https://github.com/user-attachments/assets/73deeabd-7b17-42ab-b4dd-1f7211494bac)
 
 
