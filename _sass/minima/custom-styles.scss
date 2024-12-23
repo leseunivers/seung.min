@@ -42,8 +42,16 @@
 }
 
 
+p {
 
-@media screen and (min-width: $on-medium) {
+  line-height: 1.67;
+  font-size: 15.31px;
+
+}
+
+
+
+@media screen and (max-width: 600px) {
 
   p {
 
@@ -52,14 +60,6 @@
 
   }
   
-}
-
-
-p {
-
-  line-height: 1.67;
-  font-size: 15.31px;
-
 }
 
 
