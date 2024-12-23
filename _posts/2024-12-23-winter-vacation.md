@@ -25,11 +25,11 @@ title: "Winter vacation"
 
 
 
-![IMG_0560](https://github.com/user-attachments/assets/73deeabd-7b17-42ab-b4dd-1f7211494bac)
+<div class="img-top></div>
 
+![IMG_0560](https://github.com/user-attachments/assets/e4e9668f-bdb8-455c-9864-8af66007a7fe)
 
-
-![IMG_0556](https://github.com/user-attachments/assets/a2cdd44f-5bce-4f6b-a421-706c2c6f84e5)
+![IMG_0556](https://github.com/user-attachments/assets/630cdca5-8306-4da2-b56b-bd5505678b13)
 
 
 <div class="txt">
