@@ -42,6 +42,19 @@
 }
 
 
+
+@media screen and (max-width: $on-medium) {
+
+  p {
+
+    line-height: 1.67;
+    font-size: 13px;
+
+  }
+  
+}
+
+
 p {
 
   line-height: 1.67;
@@ -50,15 +63,6 @@ p {
 }
 
 
-@media screen and (max-width: 600px) {
-
-  p {
-
-    line-height: 1.67;
-    font-size: 13px;
-
-  }
-}
 
 h3 {
   
