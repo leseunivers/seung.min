@@ -45,7 +45,7 @@ title: "Winter vacation"
 
 <div class="txt">
   
- 뉴진스 앨범 샀는데 매우 만족하고 있고 빨리 CD player 사서 들어보고 싶음
+ 뉴진스 앨범 샀는데 매우 만족하고 있고 빨리 CD player 사서 들어보고 싶어요
 
 </div>
 
