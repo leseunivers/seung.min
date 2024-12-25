@@ -113,6 +113,78 @@
     }
   }
 
+ @media screen and (max-width: 600px) {
+
+   .site-nav {
+
+     position: absolute;
+     top: 13px;
+     right: $spacing-unit * .5;
+     background-color: $background-color;
+     border: 1px solid $border-color-01;
+     border-radius: 5px;
+     text-align: right;
+     transform-origin: top right;
+     scale: 0.77;
+     
+     
+      
+     
+  
+
+      .nav-trigger {
+        display: none;
+      }
+    
+      .menu-icon {
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
+    
+        > svg path {
+          fill: $border-color-03;
+        }
+      }
+    
+      label[for="nav-trigger"] {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 36px;
+        z-index: 2;
+        cursor: pointer;
+      }
+    
+      input ~ .trigger {
+        clear: both;
+        display: none;
+      }
+    
+      input:checked ~ .trigger {
+        display: block;
+        padding-bottom: 5px;
+      }
+    
+      .page-link {
+        color: $text-color;
+        line-height: $base-line-height;
+        display: block;
+        padding: 5px 10px;
+        margin-left: 20px;
+    
+        // Gaps between nav items, but not on the last one
+        &:not(:last-child) {
+          margin-right: 0;
+        }
+      }
+
+
+  }
+
+
   @media screen and (min-width: $on-medium) {
     position: static;
     float: right;
