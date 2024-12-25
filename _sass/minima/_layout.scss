@@ -28,6 +28,29 @@
   }
 }
 
+
+@media screen and (max-width: 600px) {
+
+  .site-title {
+  @include relative-font-size(1.152);
+  font-weight: 300;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  @include media-query($on-palm) {
+    padding-right: 45px;
+  }
+
+  &,
+  &:visited {
+    color: $site-title-color;
+    }
+  }
+}
+
+    
+
 .site-nav {
   position: absolute;
   top: 9px;
