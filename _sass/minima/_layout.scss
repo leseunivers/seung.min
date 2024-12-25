@@ -73,8 +73,9 @@
     width: 36px;
     height: 26px;
     line-height: 0;
-    padding-top: 10px;
+    padding-top: 8px;
     text-align: center;
+    scale: 0.7;
 
     > svg path {
       fill: $border-color-03;
@@ -88,6 +89,8 @@
     height: 36px;
     z-index: 2;
     cursor: pointer;
+    position: absolute;
+    right: 0;
   }
 
   input ~ .trigger {
