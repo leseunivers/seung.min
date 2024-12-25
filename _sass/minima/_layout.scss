@@ -29,7 +29,9 @@
     color: $site-title-color;
     }
   }
+}
 
+@media screen and (min-width: 601px) {
 
   .site-nav {
     position: absolute;
@@ -90,7 +92,6 @@
     }
   }
 }
-
 
 
 @media screen and (max-width: 600px) {
