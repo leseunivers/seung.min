@@ -11,7 +11,9 @@
   position: relative;
 }
 
-.site-title {
+@media screen and (min-width: 601px) {
+
+  .site-title {
   @include relative-font-size(1.352);
   font-weight: 300;
   letter-spacing: -1px;
@@ -25,8 +27,10 @@
   &,
   &:visited {
     color: $site-title-color;
+    }
   }
 }
+
 
 
 @media screen and (max-width: 600px) {
