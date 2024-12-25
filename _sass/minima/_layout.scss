@@ -31,9 +31,7 @@
   }
 }
 
-@media screen and (min-width: 601px) {
-
-  .site-nav {
+.site-nav {
     position: absolute;
     top: 9px;
     right: $spacing-unit * .5;
@@ -90,7 +88,6 @@
         margin-right: 0;
       }
     }
-  }
 }
 
 
