@@ -160,40 +160,7 @@
 }
 
 
-    
-
-
-
-
-  @media screen and (min-width: $on-medium) {
-    position: static;
-    float: right;
-    border: none;
-    background-color: inherit;
-
-    label[for="nav-trigger"] {
-      display: none;
-    }
-
-    .menu-icon {
-      display: none;
-    }
-
-    input ~ .trigger {
-      display: block;
-    }
-
-    .page-link {
-      display: inline;
-      padding: 0;
-      margin-left: auto;
-
-      &:not(:last-child) {
-        margin-right: 20px;
-      }
-    }
-  }
-}
+  
 
 
 
