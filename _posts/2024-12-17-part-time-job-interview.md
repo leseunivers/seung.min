@@ -7,7 +7,7 @@ title: "Part-time job interview"
 
 
   
-This is the initial website design from nine months ago. Since then, there has been progress. The design was originally based on the website I was creating for Ajou University at the beginning of the semester. After A-propagator was established, it was natural to adopt this design.
+This is the initial website design from nine months ago. Since then, there has been progress. The design was originally based on the website I was creating for Ajou University at the beginning of the semester. After A-propagator was established, it was natural to adopt the design.
 
 
 
