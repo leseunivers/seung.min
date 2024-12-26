@@ -17,7 +17,7 @@ This is the initial website design from nine months ago. Since then, there has b
 
 <div class="m-top"></div>
 
-<h3 style="padding-top: 10px;"> I had a part-time job interview with people wearing suits  </h3>
+<h3 style="padding-top: 10px;"> Interviewing people in suits </h3>
 
 
 I had a part-time job interview at a company called Etners. I felt nervous and I could feel the pressure. At the last moment, I thought about not going to the interview at all. Because there was no reason to have a part-time job. But I had come a long way, and I couldn't go back. For my future, I had to do this.
