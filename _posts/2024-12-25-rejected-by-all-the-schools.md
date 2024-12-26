@@ -3,7 +3,7 @@ layout: post
 title: "Rejected by all the schools" 
 ---
 
-<a href="https://www.youtube.com/watch?v=H9-OOl_9r6I&t=1617s"> Silent hiking the Himalayas youtube video </a>
+<a href="https://www.youtube.com/watch?v=H9-OOl_9r6I&t=1617s"> Silent Hiking The Himalayas </a>
 
 나는 히말라야에 무언가 있는 것 같다. 고등학생 때 히말라야를 등반하던 아저씨가 쓴 책을 감명 깊게 읽었고 아주대를 처음 봤을 때 히말라야가 건물 뒤에서 보였다. '히말라야'라는 글자 자체도 매력적인 것 같다. 
 
