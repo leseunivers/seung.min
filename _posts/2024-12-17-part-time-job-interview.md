@@ -3,11 +3,17 @@ layout: post
 title: "Part-time job interview"
 ---
 <h3> Initial a-propagator.com design </h3>
-<img width="1796" alt="A-propagator" src="https://github.com/user-attachments/assets/6bd13b5e-f95f-4624-b8fc-8f43531aa029" />
+
+
+<div class="img">
+
+  <img scr="https://github.com/user-attachments/assets/b9931c1a-3efb-4c3e-87fc-d346162d353c">
+  
+</div>
 
 
   
-This is the initial website layout from nine months ago. Since then, there has been progress. The original concept was based on a website I was developing for Ajou University at the beginning of the semester. After A-propagator was established, using its design felt like a natural choice. 
+This is the initial website layout from nine months ago. Since then, there has been progress. The original concept was based on a website I was developing for Ajou University at the beginning of the semester. After A-propagator was established, using its design felt like super natural. 
 
 
 
