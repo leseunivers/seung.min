@@ -393,19 +393,19 @@
   }
 
   h3 {
-    @include relative-font-size(1.175);
+    @include relative-font-size(1.135);
 
     @media screen and (min-width: $on-large) {
-      @include relative-font-size(1.225);
+      @include relative-font-size(1.135);
     }
   }
 
   h4 {
-    @include relative-font-size(1.25);
+    @include relative-font-size(1.115);
   }
 
   h5 {
-    @include relative-font-size(1.125);
+    @include relative-font-size(1.095);
   }
   h6 {
     @include relative-font-size(1.0625);
