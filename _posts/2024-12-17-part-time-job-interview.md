@@ -7,7 +7,7 @@ title: "Part-time job interview"
 
 <div class="img">
 
-  <img scr="https://github.com/user-attachments/assets/b9931c1a-3efb-4c3e-87fc-d346162d353c">
+  <img src="https://github.com/user-attachments/assets/b9931c1a-3efb-4c3e-87fc-d346162d353c">
   
 </div>
 
