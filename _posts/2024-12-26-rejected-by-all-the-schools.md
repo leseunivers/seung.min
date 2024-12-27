@@ -35,7 +35,7 @@ title: "Rejected by all the schools"
 
 <div class="txt">
 
-  1990년대 감성 굿굿
+  1990년대 감성 
   
 </div>
 
