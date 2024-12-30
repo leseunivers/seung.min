@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "idk"
+title: "No need to work"
 ---
 
 
@@ -43,7 +43,7 @@ title: "idk"
 
 <div class="img">
 
-  <img src="https://github.com/user-attachments/assets/87cb50df-304c-4636-bbfb-d343113f1d32">
+  <img width="599" src="https://github.com/user-attachments/assets/87cb50df-304c-4636-bbfb-d343113f1d32">
   
 </div>
 
