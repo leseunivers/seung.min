@@ -14,9 +14,9 @@
 @media screen and (min-width: 601px) {
 
   .site-title {
-    @include relative-font-size(0.9);
+    @include relative-font-size(0.99);
     font-weight: 300;
-    letter-spacing: -1px;
+    letter-spacing: -0.7px;
     margin-bottom: 0;
     float: left;
     padding-top: 1.9px;
