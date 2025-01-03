@@ -5,9 +5,6 @@ title: "Winter vacation"
 
 
 
-<h3> Today's reading </h3>
-
-
 "물리학에 따르면 모든 에너지는 보존된다. 우주의 에너지 총합은 결코 변하지 않으며, 현재 살아 있는 육체에 형상화된 에너지는 영원히 존재할 것이다.
 삶과 죽음의 과정은 바로 현재의 내가 빌려 쓰고 있는 에너지가 언젠가 다른 형태를 취하게 된다는 것을 뜻할 뿐이다. 하나의 물결에 불과한 삶은 시작도 끝도 없다.
 삶과 죽음은 양자 진공에서 일어나는 에너지의 순환 과정 일부로서, 잠깐 한 가지 형태를 취했다가 다시 진공 속으로 해체되어 들어간다. 죽음은 생명이 되는 에너지의 영원한 변형으로서 필연적이고 자연스러운 부분이다."
@@ -58,8 +55,11 @@ title: "Winter vacation"
 
 <div class="m-top"></div>
 
+<div class="txt">
 
-<a href="https://www.youtube.com/watch?v=H9-OOl_9r6I&t=1617s"> Silent Hiking The Himalayas </a>
+  <a href="https://www.youtube.com/watch?v=H9-OOl_9r6I&t=1617s"> Silent Hiking The Himalayas </a>
+
+</div>
 
 히말라야에 무언가 있는 것 같다. 고등학생 때 히말라야를 등반하던 아저씨가 쓴 책을 감명 깊게 읽었고 아주대를 처음 봤을 때 히말라야가 건물 뒤에서 보였다. 글자 자체도 매력적인 것 같다. 
 나는 현재 무엇을 해야 할지 몰라 순간순간 끌리는 대로 살고 있다. 세상이 한 번도 경험해 보지 못한 새로운 차원의 존재가 되고 싶다. 
