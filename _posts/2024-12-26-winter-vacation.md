@@ -30,6 +30,13 @@ title: "Winter vacation"
 </div>
 
 
+<div class="txt">
+
+  무라카미 다카시 
+  
+</div>
+
+
 <div class="img">
 
   <img src="https://github.com/user-attachments/assets/6a869dec-ece5-417d-a839-14f6287a82bb">
