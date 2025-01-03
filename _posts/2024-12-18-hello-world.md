@@ -56,6 +56,12 @@ I had a part-time job interview at a company called Etners. I felt nervous and I
 예상과는 다르게, 회사 내부는 정말 깔끔하고 층고가 높은 것이 마음에 들었다. 바닥은 카펫 느낌의 재질이라 마치 미국 테크 기업에 들어온 것 같았다. 그런데 대기실에 들어가니 모두 양복 차림에 나이는 26~33살처럼 보였다. 내가 여기 있을 곳이 아니라고 생각했다. 나만 대학생인 것 같아서 굉장히 어색했다. 모두 비즈니스 캐주얼에 구두를 신고 있었다. 면접장에는 나를 포함해 6명이 들어갔고, 옆에 앉은 사람들은 '인사팀', '팀장님' 등의 직책을 언급하며 면접 질문에 대답하고 있었다. 여기를 나가고 싶은 생각이 들었다. 
 
 
+
+
+
+
+<div class="m-top"></div>
+
 <h3> How it feels after finishing final exams </h3>
 
 I don't know what kind of value college study brings to me. There was a pressure from studying but it was kind of enjoyable. If I get another chance to take a test in the future, I’ll stay until the very end, thinking hard through each question. I want to put more effort. Living as a student is a part of my life and I want to do my best in every aspect. 
