@@ -65,16 +65,9 @@ Kang(민기)이 생각해낸 문장이야
 
 
 
-<div class="img">
- <img src="https://github.com/user-attachments/assets/aef4a9f1-cb9d-41f2-87ce-bfea4b60cfb4">
-</div>
 
 
-<div class="txt">
- 우리가 타고간 비행기야
-</div>
 
-![IMG_0620](https://github.com/user-attachments/assets/2f68f521-31b2-4111-b6e1-219c48b0c3d9)
 
 
 
