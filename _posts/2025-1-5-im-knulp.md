@@ -186,6 +186,59 @@ Kang(민기)이 생각해낸 문장이다
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+<div class="img">
+  <img src="">
+</div>
+
+<div class="txt">
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="img">
+  <img src="">
+</div>
+
+<div class="txt">
+
+</div>
+
+
+
+
+
+
+
+
+<div class="img">
+  <img src="">
+</div>
+
+<div class="txt">
+
+</div>
+
  
 
 
