@@ -50,7 +50,7 @@ title: "Winter vacation"
 
 <div class="txt">
   
- 뉴진스 앨범 샀는데 CD player 사서 들어보고 싶음
+ 뉴진스 앨범 샀는데 CD player 사서 들어보고 싶어
 
 </div>
 
