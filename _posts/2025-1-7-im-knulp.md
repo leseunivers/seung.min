@@ -19,14 +19,16 @@ Kang(민기)이 생각해낸 문장이다
 </div>
 
 
+
+
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/1d26d5be-4f6b-4e79-9063-b661f7dfc338">
+  <img src="https://github.com/user-attachments/assets/7e34924f-48f8-4070-8e10-27656024abfd">
 </div>
 
 
 <div class="txt">
 
- おもてなし 오모테나시 
+ おもてなし 오모테나시 | 
 
  환대와 마음챙김으로 살아가겠습니다
  
