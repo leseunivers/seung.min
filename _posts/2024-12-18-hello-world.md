@@ -21,7 +21,7 @@ Designing is something I enjoy, but I’ve felt no interest in my school studies
 <div class="m-top"></div>
 
 
-<h3> Initial a-propagator.com design </h3>
+  <div class="txt"><h3> Initial design </h3></div>
 
 
 <div class="img">
@@ -46,7 +46,7 @@ This is the initial website layout from nine months ago. Since then, there has b
 
 <div class="m-top"></div>
 
-<h3 style="padding-top: 10px;"> Interviewing people in suits </h3>
+<div class="txt"><h3 style="padding-top: 10px;"> Interviewing people in suits </h3></div>
 
 
 I had a part-time job interview at a company called Etners. I felt nervous and I could feel the pressure. At the last moment, I thought about not going to the interview at all. Because there was no reason to have a part-time job. But I had come a long way, and I couldn't go back. For my future, I had to do this.
@@ -62,7 +62,7 @@ I had a part-time job interview at a company called Etners. I felt nervous and I
 
 <div class="m-top"></div>
 
-<h3> How it feels after finishing final exams </h3>
+<div><h3> How it feels after finishing final exams </h3></div>
 
 I don't know what kind of value college study brings to me. There was a pressure from studying but it was kind of enjoyable. If I get another chance to take a test in the future, I’ll stay until the very end, thinking hard through each question. I want to put more effort. Living as a student is a part of my life and I want to do my best in every aspect. 
 I feel like I haven't really focused on studying this year. Since I haven't studied hard, I feel like a part of me is rejected by myself. This feeling isn't pleasant. 
