@@ -3,7 +3,6 @@ layout: post
 title: "I'm Knulp"
 ---
 
-<h4>왜 우리 애'기'를 죽임?</h4>
 
 <div class="img">
  <img src="https://github.com/user-attachments/assets/3241e83c-cc37-4979-bd92-f76e932b78ea">
@@ -11,7 +10,9 @@ title: "I'm Knulp"
 
 
 <div class="txt">
- Kang(민기)이 생각해낸 문장이다
+ 왜 우리 애'기'를 죽임?
+ 
+ {Kang(민기)이 생각해낸 문장이다}
 </div>
 
 
