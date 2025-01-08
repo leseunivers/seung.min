@@ -3,6 +3,12 @@ layout: post
 title: "Hello, World!"
 ---
 
+<div class="txt">
+  <a href="https://ko.wikipedia.org/wiki/%22Hello,_World!%22_프로그램">"Hello, World!" 프로그램</a>
+  은 "Hello, world!"를 화면에 출력하는 컴퓨터 프로그램이다. 
+  이 프로그램은 프로그래밍 언어를 연습하는 데에 많이 쓰이고, 많은 프로그래밍 언어 서적에서 가장 처음 만들어보는 기본 예제로 나온다
+</div>
+
 
 ![ESMNCE3](https://github.com/user-attachments/assets/e191acad-5991-4b11-a272-25db1358f86d)
 <div class="txt"><h3> New update from <a href="https://www.a-propagator.com"> www.a-propagator.com </a></h3></div> 
