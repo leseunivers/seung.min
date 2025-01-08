@@ -4,7 +4,29 @@ title: "I'm Knulp"
 ---
 
 <h4>왜 우리 애'기'를 죽임?</h4>
-Kang(민기)이 생각해낸 문장이다
+
+<div class="img">
+ <img src="https://github.com/user-attachments/assets/3241e83c-cc37-4979-bd92-f76e932b78ea">
+</div>
+
+
+<div class="txt">
+ Kang(민기)이 생각해낸 문장이다
+</div>
+
+
+
+<div class="img">
+  <img src="https://github.com/user-attachments/assets/e5e68707-7733-4d87-b6a6-7b8506541e6d">
+</div>
+
+
+<div class="txt">
+  누나가 블로그 짤 보내줬다
+</div>
+
+
+
 
 
 <div class="img">
@@ -194,38 +216,25 @@ Kang(민기)이 생각해낸 문장이다
 
 
 
+<div class="img">
+  <img src="https://github.com/user-attachments/assets/0e9096a8-39f3-4478-9b96-2679786e6ca3">
+</div>
+
+<div class="txt">
+ 일본 꽃집이다
+</div>
 
 
 
 
 
 <div class="img">
-  <img src="">
+  <img src="https://github.com/user-attachments/assets/8a2e2abd-29ae-45f0-89c1-49306c32cc11">
 </div>
 
 <div class="txt">
-
+ 일본에서 처음으로 우버 이츠 시켜 먹었는데 UI 디자인이 깔끔하고 좋았다. 만약 한국에서 서비스가 됐다면 자주 이용했을 것 같아
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="img">
-  <img src="">
-</div>
-
-<div class="txt">
-
-</div>
-
 
 
 
@@ -234,12 +243,27 @@ Kang(민기)이 생각해낸 문장이다
 
 
 <div class="img">
-  <img src="">
+  <img src="https://github.com/user-attachments/assets/c34b09d1-e223-46f5-89ed-28380598996a">
 </div>
 
 <div class="txt">
-
+ 한국 돌아갈 때 탔던 비행기가 만족스러웠어. 좌석 시트의 재질, 디자인, 착석감 그리고 은은한 천장 조명이 내 취향이었어
 </div>
+
+
+
+
+<div class="img">
+ <img src="https://github.com/user-attachments/assets/eeb85d59-f3f0-43a6-be53-ecdcb55a578c">
+</div>
+
+
+<div class="txt">
+ 해질녘 비행기는 아름다운 풍경과 함께 안락한 기분을 주어서 좋아
+</div>
+
+
+
 
  
 
