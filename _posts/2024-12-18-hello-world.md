@@ -10,7 +10,10 @@ title: "Hello, World!"
 </div>
 
 
-![ESMNCE3](https://github.com/user-attachments/assets/e191acad-5991-4b11-a272-25db1358f86d)
+<div class="img">
+  <img src="https://github.com/user-attachments/assets/e191acad-5991-4b11-a272-25db1358f86d">
+</div>
+
 <div class="txt"><h3> New update from <a href="https://www.a-propagator.com"> www.a-propagator.com </a></h3></div> 
 
 
