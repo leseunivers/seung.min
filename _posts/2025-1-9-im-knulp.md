@@ -23,7 +23,7 @@ title: "I'm Knulp"
 
 
 <div class="txt">
-  누나가 보내준 블로그 짤이다
+  누나가 보내준 짤이다
 </div>
 
 
