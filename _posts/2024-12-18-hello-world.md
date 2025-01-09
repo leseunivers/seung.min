@@ -24,8 +24,6 @@ Designing is something I enjoy, but I’ve felt no interest in my school studies
 
 
 
-
-
 <div class="sm-top"></div>
 
 
@@ -49,7 +47,7 @@ Designing is something I enjoy, but I’ve felt no interest in my school studies
 <div class="sm-top"></div>
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/1f5461df-3eb5-428d-ac23-ab8002b40ba7">
+  <img src="https://github.com/user-attachments/assets/9ea7af5e-9036-4254-9dcc-5227b1593caf">
 </div>
 
 
