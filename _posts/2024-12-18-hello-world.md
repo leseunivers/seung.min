@@ -16,8 +16,9 @@ title: "Hello, World!"
 <div class="txt"><h3> New update from <a href="https://www.a-propagator.com"> www.a-propagator.com </a></h3></div> 
 
 
-Designing is something I enjoy, but I’ve felt no interest in my school studies. Following the physics curriculum for a year has been challenging. 
-I started to make a website nine months ago. Since then, there has been progress. The original concept was based on a website I was developing for Ajou University at the beginning of the semester. After A-propagator was established, using its design felt like natural. 
+Designing is something I enjoy. I started to make a website nine months ago. Since then, there has been progress. 
+The original concept was based on a website I was developing for Ajou University at the beginning of the semester. 
+After A-propagator was established, using its design felt like natural. 
 
 
 
