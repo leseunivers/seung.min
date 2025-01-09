@@ -17,25 +17,7 @@ title: "Hello, World!"
 
 
 Designing is something I enjoy, but I’ve felt no interest in my school studies. Following the physics curriculum for a year has been challenging. 
-
-
-
-
-
-
-
-<div class="sm-top"></div>
-
-
-
-<div class="img">
-
-  <img src="https://github.com/user-attachments/assets/9bdf96c7-8a01-45f1-bec3-2c7def9ba2db">
-
-</div>
-
-
-  This is the initial website layout from nine months ago. Since then, there has been progress. The original concept was based on a website I was developing for Ajou University at the beginning of the semester. After A-propagator was established, using its design felt like natural. 
+I started to make a website nine months ago. Since then, there has been progress. The original concept was based on a website I was developing for Ajou University at the beginning of the semester. After A-propagator was established, using its design felt like natural. 
 
 
 
