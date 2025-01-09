@@ -266,11 +266,11 @@ title: "I'm Knulp"
 
 
 <div class="img">
- <img src="https://github.com/user-attachments/assets/2f07037e-8239-42b8-be9e-6b0ab1328cf0">
+ <img src="https://github.com/user-attachments/assets/e0d79cae-11c1-48d7-b930-1998e857f90d">
 </div>
 
 <div class="txt">
-  이번 학기에 F를 받은 과목이 없어서 만족하고 있다. 2학년 1학기에는 더 좋은 성적을 받을 수 있기를 기대한다
+  이번 학기에 F를 받은 과목이 없어서 기쁘다. 2학년 1학기에는 더 좋은 성적을 받을 수 있기를 기대한다
 </div>
 
 
