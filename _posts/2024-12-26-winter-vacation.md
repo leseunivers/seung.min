@@ -50,7 +50,7 @@ title: "Winter vacation"
 
 <div class="txt">
   
- 뉴진스 앨범 샀는데 CD player 사서 들어보고 싶어
+ 뉴진스 앨범 샀는데 CD player 사서 들어보고 싶다
 
 </div>
 
@@ -86,7 +86,7 @@ title: "Winter vacation"
 
 <div class="txt">
 
-  부산 다대포 해수욕장에 놀러 감
+  부산 다대포 해수욕장에 놀러 갔다
   
 </div>
 
