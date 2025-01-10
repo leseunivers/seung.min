@@ -35,7 +35,7 @@ body {
 }
 
 
-@media screen and (max-width) {
+@media screen and (max-width: 768px) {
   body {
     font: $base-font-weight 13px/#{$base-line-height} 'Gowun Dodum', $base-font-family;
   }
