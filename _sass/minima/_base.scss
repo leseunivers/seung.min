@@ -35,6 +35,13 @@ body {
 }
 
 
+@media screen and (max-width) {
+  body {
+    font: $base-font-weight 13px/#{$base-line-height} 'Gowun Dodum', $base-font-family;
+  }
+}
+
+
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
