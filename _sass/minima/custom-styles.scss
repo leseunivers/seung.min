@@ -40,13 +40,7 @@
 }
 
 
-.txt {
 
-  text-align: center;
-  padding-top: 10px;
-  font-size: 14.21px;
-
-}
 
 
 .s-txt {
@@ -68,10 +62,22 @@ p {
 }
 
 
+@media screen and (min-width: 769px) {
+
+  .txt {
+
+  text-align: center;
+  padding-top: 10px;
+  font-size: 14.21px;
+
+  }
+
+}
 
 
 
-@media screen and (max-width: 600px) {
+
+@media screen and (max-width: 768px) {
 
   
   .post-link {
