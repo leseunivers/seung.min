@@ -30,8 +30,9 @@ After A-propagator was established, using its design felt like natural.
 <div class="sm-top"></div>
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/9ea7af5e-9036-4254-9dcc-5227b1593caf">
+  <img src="https://github.com/user-attachments/assets/836dce79-61c5-4e90-80da-50844a204243">
 </div>
+
 
 
 <div class="s-top"></div>
