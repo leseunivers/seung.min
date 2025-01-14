@@ -1,3 +1,3 @@
 # esmnce.com
 
-Official Information Channel
+Seungmin's Blog.
