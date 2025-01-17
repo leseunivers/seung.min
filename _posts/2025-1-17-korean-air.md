@@ -36,6 +36,8 @@ Lee Jae-hyuk, a researcher at LS Securities, stated, "If direct flights between 
   <img src="https://github.com/user-attachments/assets/9fdf295e-0a60-4048-a1ed-92809439b130">
 </div>
 
+<div class="sm-top"></div>
+
 With South Korea being included among the countries eligible for visa-free entry to China, robust passenger demand is expected. And Incheon International Airport is set to significantly enhance its capacity with the expansion of Terminal 2, positioning itself as a global leader in passenger and cargo handling. 
 
 <div class="txt">
