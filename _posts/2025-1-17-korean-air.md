@@ -20,7 +20,21 @@ Lee Jae-hyuk, a researcher at LS Securities, stated, "If direct flights between 
 "Even now, Korean Air and Asiana Airlines are performing well in terms of passenger traffic on U.S. routes." <a href="https://biz.chosun.com/stock/stock_general/2024/11/09/WO27QF3CZNH3TFJCHG4WFKMYIE/">ChosunBiz</a>
 
 
+
+
+
+
 <div class="m-top"></div>
+
+
+
+
+
+
+
+<div class="img">
+  <img src="https://github.com/user-attachments/assets/9fdf295e-0a60-4048-a1ed-92809439b130">
+</div>
 
 With South Korea being included among the countries eligible for visa-free entry to China, robust passenger demand is expected. And Incheon International Airport is set to significantly enhance its capacity with the expansion of Terminal 2, positioning itself as a global leader in passenger and cargo handling. 
 
