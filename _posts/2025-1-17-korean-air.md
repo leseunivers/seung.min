@@ -34,5 +34,28 @@ With South Korea being included among the countries eligible for visa-free entry
   · Cargo Capacity: The airport's cargo handling capability will grow by 26.0%, expanding from 5 million tons to 6.3 million tons per year, establishing it as the world's second-largest hub for air logistics.
 </div>
 
-<a href="https://chatgpt.com/c/6789bc4c-8ad4-8008-bb60-3d47a0ad3aa1">삼일PwC경영연구원</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="top"></div>
+
+
+<h3>
+  References:
+</h3>
+
+<div class="txt">
+  <a href="https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_taking-off.pdf">Samil PricewaterhouseCoopers</a>
+</div>
 
