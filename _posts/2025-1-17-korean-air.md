@@ -15,7 +15,7 @@ title: "Korean Air"
 
 <div class="s-top"></div>
 
- There is even analysis suggesting that Korean Air could become a "Trump beneficiary stock." 
+ There is even suggesting that Korean Air could become a "Trump beneficiary stock." 
 Lee Jae-hyuk, a researcher at LS Securities, stated, "If direct flights between the U.S. and China are restricted due to U.S.-China tensions, Korean Air could benefit from increased transit passengers," adding, 
 "Even now, Korean Air and Asiana Airlines are performing well in terms of passenger traffic on U.S. routes." <a href="https://biz.chosun.com/stock/stock_general/2024/11/09/WO27QF3CZNH3TFJCHG4WFKMYIE/">ChosunBiz</a>
 
