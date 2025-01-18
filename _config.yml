@@ -40,7 +40,7 @@ plugins:
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
-skin: dark
+  skin: dark
 
   # Minima skin selection.
   # Available skins are:
