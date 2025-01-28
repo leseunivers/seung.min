@@ -107,36 +107,6 @@ After A-propagator was established, using its design felt like natural.
 
 
 
-
-
-
-
-
-
-
-<div class="img">
-
-  <img src="https://github.com/user-attachments/assets/6a869dec-ece5-417d-a839-14f6287a82bb">
-
-</div>
-
-
-
-
-
-
-<div class="txt">
-  
- 뉴진스 앨범 샀는데 CD player 사서 들어보고 싶다
-
-</div>
-
-
-
-
-
-
-
 <div class="img">
   
   <img src="https://github.com/user-attachments/assets/56714eb1-058a-4bb4-a653-ecdc327bad08">
@@ -149,6 +119,11 @@ After A-propagator was established, using its design felt like natural.
   <a href="https://www.youtube.com/watch?v=H9-OOl_9r6I&t=1617s"> Silent Hiking The Himalayas </a>
 
 </div>
+
+
+
+
+
 
 
 <div class="s-top"></div>
