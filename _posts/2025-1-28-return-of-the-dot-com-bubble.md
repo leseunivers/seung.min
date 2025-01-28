@@ -29,8 +29,16 @@ title: "Return of the Dot-Com Bubble?"
 
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/6a46625d-26b9-4d09-98c0-7ef8b90a8e90">
+  <img src="https://github.com/user-attachments/assets/676e11f5-7267-4f19-9c5c-0bd71cee0469">
 </div> 
+
+<div class="s-txt">
+  
+  <a href="https://static.toss.im/ipd-tcs/toss_core/live/32e6e946-436b-4df8-871e-4fd6dec69a97/        wRww0fKkDDx34q7Kt5KESQlHjbaq1enpN6SrzfkZLJu38Tpsudsvbh_S7Gyb6Tv-8C1Nq-ZzNKYUT9KRtha0FbJNg_uu9j0eMUIK7jEfsun1PKIhB4gDTKx7cwkAucISEXvtFpcVdmBKOM5wNlrB8II">
+    출처
+  </a>
+
+</div>
 
 
 
