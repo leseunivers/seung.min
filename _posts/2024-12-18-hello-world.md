@@ -111,7 +111,35 @@ After A-propagator was established, using its design felt like natural.
 
 
 
-<div class="m-top"></div>
+<div class="img">
+
+  <img src="https://github.com/user-attachments/assets/6a869dec-ece5-417d-a839-14f6287a82bb">
+
+</div>
+
+
+
+
+
+
+<div class="txt">
+  
+ 뉴진스 앨범 샀는데 CD player 사서 들어보고 싶다
+
+</div>
+
+
+
+
+
+
+
+<div class="img">
+  
+  <img src="https://github.com/user-attachments/assets/56714eb1-058a-4bb4-a653-ecdc327bad08">
+  
+</div>
+
 
 <div class="txt">
 
@@ -119,7 +147,9 @@ After A-propagator was established, using its design felt like natural.
 
 </div>
 
+
 <div class="s-top"></div>
+
 
 히말라야에 무언가 있는 것 같다. 고등학생 때 히말라야를 등반하던 아저씨가 쓴 책을 감명 깊게 읽었고 아주대를 처음 봤을 때 히말라야가 건물 뒤에서 보였다. 글자 자체도 매력적인 것 같다. 
 나는 현재 무엇을 해야 할지 몰라 순간순간 끌리는 대로 살고 있다. 세상이 한 번도 경험해 보지 못한 새로운 차원의 존재가 되고 싶다. 
@@ -154,8 +184,6 @@ After A-propagator was established, using its design felt like natural.
   1990년대 감성 
   
 </div>
-
-
 
 
 
