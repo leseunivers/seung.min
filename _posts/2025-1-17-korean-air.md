@@ -16,7 +16,7 @@ title: "Korean Air"
 
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/e64d9b4e-6d70-416b-9700-bdb8a469fd4f">
+  <img src="https://github.com/user-attachments/assets/99562f42-e642-479f-8091-facf1aef5a91">
 </div>
 
 
