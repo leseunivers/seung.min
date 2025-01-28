@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI bubble"
+title: "AI Bubble"
 ---
 
 <div class="txt">
