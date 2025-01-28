@@ -40,7 +40,7 @@ The original concept was based on a website I was developing for Ajou University
 
 
 <div class="s-top"></div>
-  일찍 도착했는데, 어디 있어야 할지 몰라 계단에서 세액 공제 방법과 관련된 글을 읽고 있었다. 연말정산 아르바이트이기 때문에 세금 납부와 관련해서 질문한다는 블로그 게시물을 읽고 그것을 공부하고 있었다. 떨리고 긴장되었지만 마침내 회사 안으로 들어갔다. I couldn't believe that I was really here-what an experience. 
+  일찍 도착했는데, 어디 있어야 할지 몰라 계단에서 세액 공제 방법과 관련된 글을 읽고 있었다. 연말정산 아르바이트이기 때문에 세금 납부와 관련해서 질문한다는 블로그 게시물을 읽고 그것을 공부하고 있었다. 떨리고 긴장되었지만 마침내 회사 안으로 들어갔다.
 
 
 
