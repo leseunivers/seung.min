@@ -15,19 +15,6 @@ title: "Korean Air"
 
 
 
-<div class="img">
-  <img src="https://github.com/user-attachments/assets/99562f42-e642-479f-8091-facf1aef5a91">
-</div>
-
-
-<div class="txt">
-  영롱하고도 호연한 유튜브채널잘되게해주세요
-</div>
-
-
-
-
-
 
 <div class="img">
   <img src="https://github.com/user-attachments/assets/b4d0c358-2c0a-486c-9ccc-368504cf6ee6">
@@ -119,7 +106,7 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 <div class="txt">
-  살아가다 보니 어느새 영상을 새로 찍어서 올리고 있다
+  빠이
 </div>
 
 
