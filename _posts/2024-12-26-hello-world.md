@@ -101,7 +101,7 @@ After A-propagator was established, using its design felt like natural.
 
 <div class="txt">
   
- 뉴진스 앨범 샀는데 CD player 사서 들어보고 싶다
+ CD player 사서 들어보고 싶다
 
 </div>
 
