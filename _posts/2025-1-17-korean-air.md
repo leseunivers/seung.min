@@ -106,7 +106,7 @@ With South Korea being included among the countries eligible for visa-free entry
 
 <div class="s-txt">
   출처: <br>  
-      · <a href="https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_taking-off.pdf">Samil PricewaterhouseCoopers</a>
+      · <a href="https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_taking-off.pdf">Samil PricewaterhouseCoopers</a> <br>
       · <a href="https://biz.chosun.com/stock/stock_general/2024/11/09/WO27QF3CZNH3TFJCHG4WFKMYIE/">ChosunBiz</a>
 </div>
 
