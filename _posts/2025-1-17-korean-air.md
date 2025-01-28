@@ -47,14 +47,12 @@ title: "Korean Air"
 
 
 
-<div class="start">
+<div class="img">
   <img src="https://github.com/user-attachments/assets/ffbd6086-abea-41b6-8966-9d8dfffa4356">
 </div>
 
 <div class="txt">
-  <h3>
-    <a href="https://www.esgeconomy.com/news/articleView.html?idxno=9023">"Korean Air and Asiana Airlines have merged to become a top 10 global airline."</a>
-  </h3>
+  <a href="https://www.esgeconomy.com/news/articleView.html?idxno=9023">"Korean Air and Asiana Airlines have merged to become a top 10 global airline."</a>
 </div>
 
 
