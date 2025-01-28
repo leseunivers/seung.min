@@ -4,7 +4,7 @@ title: "Hello, World!"
 ---
 
 <div class="txt">
-  <a href="https://ko.wikipedia.org/wiki/%22Hello,_World!%22_프로그램">"Hello, World!"</a>는 "Hello, world!"를 화면에 출력하는 컴퓨터 프로그램이다.
+  <a href="https://ko.wikipedia.org/wiki/%22Hello,_World!%22_프로그램">"Hello, World!"</a>는 "Hello, world!"를 화면에 출력하는 컴퓨터 프로그램이다
 </div>
 
 
