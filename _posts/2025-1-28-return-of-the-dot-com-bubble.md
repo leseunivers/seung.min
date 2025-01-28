@@ -28,24 +28,12 @@ title: "Return of the Dot-Com Bubble?"
 
 
 
+
 <div class="img">
   <img src="https://github.com/user-attachments/assets/676e11f5-7267-4f19-9c5c-0bd71cee0469">
 </div> 
 
 
-<div class="s-top"></div>
-
-<div class="s-txt">
-  
-  <a href="https://static.toss.im/ipd-tcs/toss_core/live/32e6e946-436b-4df8-871e-4fd6dec69a97/        wRww0fKkDDx34q7Kt5KESQlHjbaq1enpN6SrzfkZLJu38Tpsudsvbh_S7Gyb6Tv-8C1Nq-ZzNKYUT9KRtha0FbJNg_uu9j0eMUIK7jEfsun1PKIhB4gDTKx7cwkAucISEXvtFpcVdmBKOM5wNlrB8II">
-    출처: https://www.tossbank.com/articles/bubble
-  </a>
-
-</div>
-
-
-
-  
 현재의 주식 시장을 보면 닷컴 버블이 생각난다. 혹시 AI 열풍에 대한 대중의 미망과 광기일까? <a href="https://www.tossbank.com/articles/bubble">토스뱅크</a>에서는
 현재 주가를 이끄는 기업들(Apple, NVIDIA, Microsoft, Alphabet, Amazon, Meta, Tesla)은 여전히 저평가 상태이고, 앞으로 더욱 이익을 낼 전망이라고 한다. 과거의 닷컴 버블과는 
 달리 IPO 시장이 침체한 상태이기 때문에 시장의 전문가들이 '아직 거품 수준이 아니다'라고 입을 모으고 있지만, 경제의 흐름은 누구도 확신할 수 없다. 
@@ -61,9 +49,9 @@ title: "Return of the Dot-Com Bubble?"
 
 
 <div class="s-txt">
-  Reference: <br>
-    · Ray Dalio, <i>The Changing World Order</i>, Hanbitbiz, 2022, p. 581, 583. <br>
-    · https://www.tossbank.com/articles/bubble
+  출처: <br>
+      · Ray Dalio, <i>The Changing World Order</i>, Hanbitbiz, 2022, p. 581, 583. <br>
+      · https://www.tossbank.com/articles/bubble
 </div>
   
 
