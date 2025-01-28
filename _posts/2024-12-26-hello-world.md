@@ -18,7 +18,6 @@ title: "Hello, World!"
 
 Designing is something I enjoy. I started to make a website nine months ago. Since then, there has been progress. 
 The original concept was based on a website I was developing for Ajou University at the beginning of the semester. 
-After A-propagator was established, using its design felt like natural. 
 
 
 
