@@ -33,6 +33,7 @@ title: "Return of the Dot-Com Bubble?"
   <img src="https://github.com/user-attachments/assets/676e11f5-7267-4f19-9c5c-0bd71cee0469">
 </div> 
 
+<div class="s-top"></div>
 
 현재의 주식 시장을 보면 닷컴 버블이 생각난다. 혹시 AI 열풍에 대한 대중의 미망과 광기일까? <a href="https://www.tossbank.com/articles/bubble">토스뱅크</a>에서는
 현재 주가를 이끄는 기업들(Apple, NVIDIA, Microsoft, Alphabet, Amazon, Meta, Tesla)은 여전히 저평가 상태이고, 앞으로 더욱 이익을 낼 전망이라고 한다. 과거의 닷컴 버블과는 
