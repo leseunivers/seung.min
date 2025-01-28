@@ -54,6 +54,8 @@ After A-propagator was established, using its design felt like natural.
   <img src="https://github.com/user-attachments/assets/e0ec4999-b5c9-42b3-a1ae-742b65c2eb57">
 </div>
 
+<div class="s-top"></div>
+
 "물리학에 따르면 모든 에너지는 보존된다. 우주의 에너지 총합은 결코 변하지 않으며, 현재 살아 있는 육체에 형상화된 에너지는 영원히 존재할 것이다.
 삶과 죽음의 과정은 바로 현재의 내가 빌려 쓰고 있는 에너지가 언젠가 다른 형태를 취하게 된다는 것을 뜻할 뿐이다. 하나의 물결에 불과한 삶은 시작도 끝도 없다.
 삶과 죽음은 양자 진공에서 일어나는 에너지의 순환 과정 일부로서, 잠깐 한 가지 형태를 취했다가 다시 진공 속으로 해체되어 들어간다. 죽음은 생명이 되는 에너지의 영원한 변형으로서 필연적이고 자연스러운 부분이다."
