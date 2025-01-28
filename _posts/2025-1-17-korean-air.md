@@ -104,7 +104,7 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 <h3>
-  References:
+  Reference:
 </h3>
 
 
