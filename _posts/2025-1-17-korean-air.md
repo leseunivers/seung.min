@@ -100,7 +100,7 @@ With South Korea being included among the countries eligible for visa-free entry
 </div>
 
 
-<div class="top"></div>
+<div class="h-top"></div>
 
 
 <div class="s-txt">
