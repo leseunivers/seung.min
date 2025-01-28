@@ -66,7 +66,12 @@ title: "Korean Air"
 
  There is suggesting that Korean Air could become a "Trump beneficiary stock." 
 Lee Jae-hyuk, a researcher at LS Securities, stated, "If direct flights between the U.S. and China are restricted due to U.S.-China tensions, Korean Air could benefit from increased transit passengers," adding, 
-"Even now, Korean Air and Asiana Airlines are performing well in terms of passenger traffic on U.S. routes." <a href="https://biz.chosun.com/stock/stock_general/2024/11/09/WO27QF3CZNH3TFJCHG4WFKMYIE/">ChosunBiz</a>
+"Even now, Korean Air and Asiana Airlines are performing well in terms of passenger traffic on U.S. routes."
+
+<div class="s-txt">
+  Reference: 
+  <a href="https://biz.chosun.com/stock/stock_general/2024/11/09/WO27QF3CZNH3TFJCHG4WFKMYIE/">ChosunBiz</a>
+</div>
 
 
 
@@ -98,6 +103,9 @@ With South Korea being included among the countries eligible for visa-free entry
 <div class="txt">
   · Cargo Capacity: The airport's cargo handling capability will grow by 26.0%, expanding from 5 million tons to 6.3 million tons per year, establishing it as the world's second-largest hub for air logistics.
 </div>
+
+
+<div class="s-top"></div>
 
 
 <div class="s-txt">
