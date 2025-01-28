@@ -53,7 +53,7 @@ title: "Return of the Dot-Com Bubble?"
 
 
 <h3>
-  Reference:
+  Reference
 </h3>
 
 
