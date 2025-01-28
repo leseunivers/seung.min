@@ -119,7 +119,7 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 <div class="txt">
-  살다 보니 어느새 영상을 새로 찍어서 올리고 있다
+  살아가다 보니 어느새 영상을 새로 찍어서 올리고 있다
 </div>
 
 
