@@ -23,7 +23,7 @@ title: "Return of the Dot-Com Bubble?"
 </div>
 
 <div class="txt">
-  아름다운 산업 구성을 가지고 있다
+  아름다운 사업 구성을 가지고 있다
 </div>
 
 
