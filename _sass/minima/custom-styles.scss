@@ -66,14 +66,21 @@
 }
 
 
+.post-link {
+
+    display: block;
+    font-size: 1.1rem;
+
+  }
+
 
 
 
 
 p {
   
-  line-height: 1.67;
-  font-size: 16.7px;
+  line-height: 1.7;
+  font-size: 17px;
   
 }
 
@@ -85,66 +92,29 @@ i {
 }
 
 
-@media screen and (min-width: 769px) {
-
-  .txt {
-
-    text-align: center;
-    padding-top: 10px;
-    font-size: 16.7px;
-
-  }
 
 
-  .txt2 {
-
-    text-align: center;
-    padding-top: 1px;
-    font-size: 16.7px;
-
-  }
-
-}
-
-
-
-
-@media screen and (max-width: 768px) {
-
-  
-  .post-link {
-
-    display: block;
-    font-size: 1.1rem;
-
-  }
-
-  .txt {
+.txt {
 
     text-align: center;
     padding-top: 10px;
-    font-size: 16.7px;
+    font-size: 17px;
 
- }
+}
 
 
-  .txt2 {
+.txt2 {
 
     text-align: center;
     padding-top: 1px;
-    font-size: 16.7px;
+    font-size: 17px;
 
-  }
-
-
-  p {
-  
-  line-height: 1.56;
-  font-size: 16.7px;
-  
 }
-  
-}
+
+
+
+
+
 
 
 
