@@ -61,9 +61,9 @@ title: "Return of the Dot-Com Bubble?"
 
 
 <div class="s-txt">
-  Reference: 
-  
-  Ray Dalio, <i>The Changing World Order</i>, Hanbitbiz, 2022, p. 581, 583.
+  Reference: <br>
+    · Ray Dalio, <i>The Changing World Order</i>, Hanbitbiz, 2022, p. 581, 583. <br>
+    · https://www.tossbank.com/articles/bubble
 </div>
   
 
