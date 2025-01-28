@@ -100,9 +100,6 @@ With South Korea being included among the countries eligible for visa-free entry
 </div>
 
 
-<div class="h-top"></div>
-
-
 <div class="s-txt">
   Reference:
   <a href="https://www.pwc.com/kr/ko/insights/industry-focus/samilpwc_taking-off.pdf">Samil PricewaterhouseCoopers</a>
