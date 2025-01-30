@@ -4,7 +4,7 @@ title: "Korean Air"
 ---
 
 <div class="start">
-  <img src="https://github.com/user-attachments/assets/ba0a25bb-5584-47f4-90da-928a49053684">
+  <img src="https://github.com/user-attachments/assets/8fb0c6f9-2d9e-4122-9033-a77e21b57163">
 </div>
 
 <div class="txt">
