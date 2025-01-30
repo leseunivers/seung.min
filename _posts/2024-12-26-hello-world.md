@@ -9,7 +9,7 @@ title: "Hello, World!"
 
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/7db3add3-d1e9-44c8-a4e6-c4154f1e70d3" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg">
+  <img src="https://github.com/user-attachments/assets/7db3add3-d1e9-44c8-a4e6-c4154f1e70d3" loading="lazy">
 </div>
 
 <div class="txt"><h3> New update from <a href="https://www.a-propagator.com"> www.a-propagator.com </a></h3></div> 
@@ -27,7 +27,7 @@ The original concept was based on a website I was developing for Ajou University
 <div class="sm-top"></div>
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/39826e72-3d5b-4ff6-824a-8682198941d8" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg">
+  <img src="https://github.com/user-attachments/assets/39826e72-3d5b-4ff6-824a-8682198941d8" loading="lazy">
 </div>
 
 
@@ -47,7 +47,7 @@ The original concept was based on a website I was developing for Ajou University
 
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/b2e814fc-1461-4496-8053-868197f3db77" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg">
+  <img src="https://github.com/user-attachments/assets/b2e814fc-1461-4496-8053-868197f3db77" loading="lazy">
 </div>
 
 <div class="s-top"></div>
@@ -70,7 +70,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="img">
   
-  <img src="https://github.com/user-attachments/assets/c456ac98-49b1-45d1-ab35-1d438bed46a3" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg">
+  <img src="https://github.com/user-attachments/assets/c456ac98-49b1-45d1-ab35-1d438bed46a3" loading="lazy">
 
 </div>
 
@@ -84,7 +84,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="img">
 
-  <img src="https://github.com/user-attachments/assets/e032053c-17b3-4d64-b883-751d3b73c792" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg">
+  <img src="https://github.com/user-attachments/assets/e032053c-17b3-4d64-b883-751d3b73c792" loading="lazy">
 
 </div>
 
@@ -102,7 +102,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="img">
   
-  <img src="https://github.com/user-attachments/assets/043c654a-5498-4744-b467-8d83f3e2dcf4" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg">
+  <img src="https://github.com/user-attachments/assets/043c654a-5498-4744-b467-8d83f3e2dcf4" loading="lazy">
   
 </div>
 
@@ -132,7 +132,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="img"> 
   
-  <img src="https://github.com/user-attachments/assets/5472dce1-0961-4d6b-8356-ea1395c85854" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg"> 
+  <img src="https://github.com/user-attachments/assets/5472dce1-0961-4d6b-8356-ea1395c85854" loading="lazy"> 
 
 </div>
 
@@ -145,7 +145,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="img">
 
-  <img src="https://github.com/user-attachments/assets/c2616cec-5565-4290-b581-fc164b35bee2" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg">
+  <img src="https://github.com/user-attachments/assets/c2616cec-5565-4290-b581-fc164b35bee2" loading="lazy">
 
 </div>
 
@@ -164,7 +164,7 @@ The original concept was based on a website I was developing for Ajou University
 <div class="sm-top"></div>
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/41ae890a-f773-4064-9050-4262e921e7b7" loading="lazy" src="low-res-image.jpg" data-src="high-res-image.jpg">
+  <img src="https://github.com/user-attachments/assets/41ae890a-f773-4064-9050-4262e921e7b7" loading="lazy">
 </div>
 
 
