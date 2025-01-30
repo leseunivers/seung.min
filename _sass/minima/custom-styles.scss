@@ -113,16 +113,25 @@ i {
 
 
 
-
-
-
-
-
 h3 {
   
   padding-bottom: 10px;
 
 }
+
+
+.lazyload {
+  filter: blur(10px); /* 흐릿하게 처리 */
+}
+
+.lazyload.loaded {
+  filter: blur(0); /* 로딩 완료 후 흐림 제거 */
+}
+
+
+
+
+
 
 
 .post-title {
