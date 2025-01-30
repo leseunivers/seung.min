@@ -10,7 +10,7 @@ title: "Return of the Dot-Com Bubble?"
 
 
 <div class="img">
-  <img class="lazyload" src="https://github.com/user-attachments/assets/f0988bab-bc83-4a25-a7f6-d9eb78e6957d">
+  <img src="https://github.com/user-attachments/assets/f0988bab-bc83-4a25-a7f6-d9eb78e6957d">
 </div>
 
 <div class="txt">
