@@ -4,7 +4,7 @@ title: "Korean Air"
 ---
 
 <div class="start">
-  <img src="https://github.com/user-attachments/assets/b54e7638-95cf-4baa-98b6-bbc5ed0f6c8c">
+  <img src="https://github.com/user-attachments/assets/ba0a25bb-5584-47f4-90da-928a49053684" loading="lazy">
 </div>
 
 <div class="txt">
@@ -16,8 +16,9 @@ title: "Korean Air"
 
 
 
+
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/b4d0c358-2c0a-486c-9ccc-368504cf6ee6">
+  <img src="https://github.com/user-attachments/assets/36430ef3-723d-439f-918b-6b36e3258a48" loading="lazy">
 </div>
 
 
@@ -28,14 +29,13 @@ title: "Korean Air"
 
 
 
-
 <div class="sm-top"></div>
 
 
 
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/ffbd6086-abea-41b6-8966-9d8dfffa4356">
+  <img src="https://github.com/user-attachments/assets/28217793-a63d-48cb-aefd-2222bb2ceb32" loading="lazy">
 </div>
 
 <div class="txt">
@@ -69,8 +69,9 @@ Lee Jae-hyuk, a researcher at LS Securities, stated, "If direct flights between 
 
 
 
+
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/9fdf295e-0a60-4048-a1ed-92809439b130">
+  <img src="https://github.com/user-attachments/assets/02e21e66-63b4-44c5-9d9e-ab3e04f03f2e" loading="lazy">
 </div>
 
 <div class="sm-top"></div>
@@ -99,8 +100,9 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 
+
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/ffa560ce-2647-450e-aabf-d2ceda1c1c23">
+  <img src="https://github.com/user-attachments/assets/4252bfc4-83ae-46a6-9e51-d2b5fbc9f65a" loading="lazy">
 </div>
 
 
