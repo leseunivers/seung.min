@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  const images = document.querySelectorAll(".img");
+  const images = document.querySelectorAll(".lazyload");
 
   images.forEach(img => {
     img.onload = function() {
