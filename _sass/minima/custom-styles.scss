@@ -123,8 +123,8 @@ h3 {
 
 
 .lazyload {
-  filter: blur(5px); 
-  transition: filter 0.3s ease-out;
+  filter: blur(1px); 
+  transition: filter 0.1s ease-out;
 }
 
 .lazyload.loaded {
