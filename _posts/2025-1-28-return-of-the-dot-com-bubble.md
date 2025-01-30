@@ -10,7 +10,7 @@ title: "Return of the Dot-Com Bubble?"
 
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/0787ce57-799a-4226-a720-189c61fefdfa">
+  <img src="https://github.com/user-attachments/assets/f0988bab-bc83-4a25-a7f6-d9eb78e6957d" loading="lazy">
 </div>
 
 <div class="txt">
@@ -18,8 +18,9 @@ title: "Return of the Dot-Com Bubble?"
 </div>
 
 
+
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/ae44113c-5e5f-4786-a9ab-9016f06a1a89">
+  <img src="https://github.com/user-attachments/assets/2e95a0ba-bde1-425c-9304-3db2240afa4a" loading="lazy">
 </div>
 
 <div class="txt">
@@ -28,9 +29,8 @@ title: "Return of the Dot-Com Bubble?"
 
 
 
-
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/676e11f5-7267-4f19-9c5c-0bd71cee0469">
+  <img src="https://github.com/user-attachments/assets/7923bb13-2c0d-4926-b4a9-f53f6297833b" loading="lazy">
 </div> 
 
 <div class="s-top"></div>
