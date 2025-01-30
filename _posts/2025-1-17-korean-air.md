@@ -4,7 +4,7 @@ title: "Korean Air"
 ---
 
 <div class="start">
-  <img class="lazyload" src="https://github.com/user-attachments/assets/ba0a25bb-5584-47f4-90da-928a49053684">
+  <img src="https://github.com/user-attachments/assets/ba0a25bb-5584-47f4-90da-928a49053684">
 </div>
 
 <div class="txt">
