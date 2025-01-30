@@ -1,10 +1,6 @@
-document.addEventListener("DOMContentLoaded", function() {
-  const images = document.querySelectorAll(".lazyload");
-
-  images.forEach(img => {
-    img.onload = function() {
-      img.classList.add('loaded');
-    };
-    img.src = img.dataset.src; // 원본 이미지 로드
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".lazyload").forEach(img => {
+    img.onload = () => img.classList.add("loaded"); 
+    img.src = img.src; 
   });
 });
