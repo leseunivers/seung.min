@@ -28,7 +28,7 @@ The original concept was based on a website I was developing for Ajou University
 <div class="sm-top"></div>
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/836dce79-61c5-4e90-80da-50844a204243">
+  <img src="https://github.com/user-attachments/assets/836dce79-61c5-4e90-80da-50844a204243" loading="lazy">
 </div>
 
 
