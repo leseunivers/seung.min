@@ -164,7 +164,7 @@ The original concept was based on a website I was developing for Ajou University
 <div class="sm-top"></div>
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/41ae890a-f773-4064-9050-4262e921e7b7" loading="lazy">
+  <img class="lazyload" src="https://github.com/user-attachments/assets/41ae890a-f773-4064-9050-4262e921e7b7" loading="lazy">
 </div>
 
 
