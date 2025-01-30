@@ -9,7 +9,7 @@ title: "Hello, World!"
 
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/e191acad-5991-4b11-a272-25db1358f86d" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/7db3add3-d1e9-44c8-a4e6-c4154f1e70d3" loading="lazy">
 </div>
 
 <div class="txt"><h3> New update from <a href="https://www.a-propagator.com"> www.a-propagator.com </a></h3></div> 
@@ -24,11 +24,10 @@ The original concept was based on a website I was developing for Ajou University
 
 
 
-
 <div class="sm-top"></div>
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/836dce79-61c5-4e90-80da-50844a204243" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/39826e72-3d5b-4ff6-824a-8682198941d8" loading="lazy">
 </div>
 
 
@@ -47,9 +46,8 @@ The original concept was based on a website I was developing for Ajou University
   예상과는 다르게, 회사 내부는 정말 깔끔하고 층고가 높은 것이 마음에 들었다. 바닥은 카펫 느낌의 재질이라 마치 미국 테크 기업에 들어온 것 같았다. 그런데 대기실에 들어가니 모두 양복 차림에 나이는 26~33살처럼 보였다. 내가 여기 있을 곳이 아니라고 생각했다. 나만 대학생인 것 같아서 굉장히 어색했다. 모두 비즈니스 캐주얼에 구두를 신고 있었다. 면접장에는 나를 포함해 6명이 들어갔고, 옆에 앉은 사람들은 '인사팀', '팀장님' 등의 직책을 언급하며 면접 질문에 대답하고 있었다. 여기를 나가고 싶은 생각이 들었다. 
 
 
-
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/e0ec4999-b5c9-42b3-a1ae-742b65c2eb57" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/b2e814fc-1461-4496-8053-868197f3db77" loading="lazy">
 </div>
 
 <div class="s-top"></div>
@@ -70,11 +68,9 @@ The original concept was based on a website I was developing for Ajou University
 
 
 
-
-
 <div class="img">
   
-  <img src="https://github.com/user-attachments/assets/e4e9668f-bdb8-455c-9864-8af66007a7fe" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/c456ac98-49b1-45d1-ab35-1d438bed46a3" loading="lazy">
 
 </div>
 
@@ -88,7 +84,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="img">
 
-  <img src="https://github.com/user-attachments/assets/6a869dec-ece5-417d-a839-14f6287a82bb" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/e032053c-17b3-4d64-b883-751d3b73c792" loading="lazy">
 
 </div>
 
@@ -104,10 +100,9 @@ The original concept was based on a website I was developing for Ajou University
 </div>
 
 
-
 <div class="img">
   
-  <img src="https://github.com/user-attachments/assets/56714eb1-058a-4bb4-a653-ecdc327bad08" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/043c654a-5498-4744-b467-8d83f3e2dcf4" loading="lazy">
   
 </div>
 
@@ -137,7 +132,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="img"> 
   
-  <img src="https://github.com/user-attachments/assets/d9584eff-4cd3-484e-aac0-690b13cfba0f" loading="lazy"> 
+  <img src="https://github.com/user-attachments/assets/5472dce1-0961-4d6b-8356-ea1395c85854" loading="lazy"> 
 
 </div>
 
@@ -150,7 +145,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="img">
 
-  <img src="https://github.com/user-attachments/assets/8477070e-3094-4790-a58f-3a726f8b0f12" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/c2616cec-5565-4290-b581-fc164b35bee2" loading="lazy">
 
 </div>
 
@@ -166,12 +161,10 @@ The original concept was based on a website I was developing for Ajou University
 
 
 
-
-
 <div class="sm-top"></div>
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/c4c8219a-4219-446d-b928-46765920f61b" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/41ae890a-f773-4064-9050-4262e921e7b7" loading="lazy">
 </div>
 
 
