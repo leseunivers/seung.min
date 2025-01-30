@@ -9,7 +9,7 @@ title: "Hello, World!"
 
 
 <div class="img">
-  <img class="lazyload" src="https://github.com/user-attachments/assets/7db3add3-d1e9-44c8-a4e6-c4154f1e70d3" loading="lazy">
+  <img src="https://github.com/user-attachments/assets/7db3add3-d1e9-44c8-a4e6-c4154f1e70d3" loading="lazy">
 </div>
 
 <div class="txt"><h3> New update from <a href="https://www.a-propagator.com"> www.a-propagator.com </a></h3></div> 
