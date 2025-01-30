@@ -123,11 +123,12 @@ h3 {
 
 
 .lazyload {
-  filter: blur(10px); /* 흐릿하게 처리 */
+  filter: blur(10px); 
+  transition: filter 0.3s ease-out;
 }
 
 .lazyload.loaded {
-  filter: blur(0); /* 로딩 완료 후 흐림 제거 */
+  filter: blur(0); 
 }
 
 
