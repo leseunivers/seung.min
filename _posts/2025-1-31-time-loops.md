@@ -100,10 +100,14 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 
+<div class="img">
+  <img class="lazyload" src="https://github.com/user-attachments/assets/d0e6511d-9224-48d4-8381-4cc8df3cf865">
+</div>
 
 <div class="txt">
   다음 학기에 듣게 될 과목은 '역학1', '수리물리학 및 수치계산1', '현대물리학실험', '현대양자과학'이다
 </div>
+
 
 
 
