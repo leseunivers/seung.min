@@ -66,7 +66,7 @@ title: "Return of the Dot-Com Bubble?"
 
 
 <div class="txt">
-  문득 이런 생각이 들었다. 삶은 하루다. 매일 반복되는 것은 시간 때문이다
+  문득 이런 생각이 들었다. 삶은 하루다. 매일 반복되는 것은 시간 때문이다.
 </div>
   
 
