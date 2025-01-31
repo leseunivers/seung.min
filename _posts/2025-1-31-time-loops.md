@@ -101,7 +101,7 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 <div class="img">
-  <img class="lazyload" src="https://github.com/user-attachments/assets/d0e6511d-9224-48d4-8381-4cc8df3cf865">
+  <img class="lazyload" src="https://github.com/user-attachments/assets/0d54a4ea-d27c-4793-ac11-31ad01a94262">
 </div>
 
 <div class="txt">
