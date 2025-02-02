@@ -60,8 +60,10 @@ minima:
 
   # Generate social links in footer.
   #social_links:
-   social_links:
+  social_links:
      - { platform: instagram,      user_url: "https://www.instagram.com/forfresm" }
+
+     
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
