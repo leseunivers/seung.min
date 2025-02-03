@@ -168,7 +168,13 @@ With South Korea being included among the countries eligible for visa-free entry
 </div>
 
 
+<div class="img">
+  <img src="https://github.com/user-attachments/assets/a6316518-2003-478b-8fa3-5523e79380ff">
+</div>
 
+<div class="txt">
+  갈수록 걸음 수가 줄어드는 걸 보니 실내에 있는 게 편해졌나 봐
+</div>
 
 
 <div class="img">
