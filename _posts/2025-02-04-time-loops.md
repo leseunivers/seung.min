@@ -169,21 +169,21 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 <div class="img">
-  <img src="https://github.com/user-attachments/assets/a6316518-2003-478b-8fa3-5523e79380ff">
+  <img class="lazyload" src="https://github.com/user-attachments/assets/a6316518-2003-478b-8fa3-5523e79380ff">
 </div>
 
 <div class="txt">
-  갈수록 걸음 수가 줄어드는 걸 보니 실내에 있는 게 편해졌나 봐
+  걷지 않아도 호흡하는 게 편해졌다
 </div>
+
 
 
 <div class="img">
-  <img class="lazyload" src="https://github.com/user-attachments/assets/4252bfc4-83ae-46a6-9e51-d2b5fbc9f65a">
+  <img class="lazyload" src="https://github.com/user-attachments/assets/2e4f5a29-c672-4010-b99b-cfd5418e2eef">
 </div>
 
 
-
 <div class="txt">
-  빠이
+  원주각의 정리(Inscribed Angle Theorem)를 직접 그렸다. "같은 현을 바라보는 원 위의 모든 점은 같은 각을 가진다."
 </div>
 
