@@ -1,4 +1,4 @@
-![4B34F683-FFD8-492F-973A-E49B9ACF0337_1_201_a](https://github.com/user-attachments/assets/b4815776-5aab-47b6-a8ec-e5a769ada6b2)---
+---
 layout: post
 title: "Time Loops"
 ---
