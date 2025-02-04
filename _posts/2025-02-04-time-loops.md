@@ -184,6 +184,6 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 <div class="txt">
-  원주각의 정리(Inscribed Angle Theorem)를 직접 그렸다. "같은 현을 바라보는 원 위의 모든 점은 같은 각을 가진다."
+  원주각의 정리(Inscribed Angle Theorem)를 그려 보았다.
 </div>
 
