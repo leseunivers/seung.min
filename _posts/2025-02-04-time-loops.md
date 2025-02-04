@@ -1,4 +1,4 @@
----
+![4B34F683-FFD8-492F-973A-E49B9ACF0337_1_201_a](https://github.com/user-attachments/assets/b4815776-5aab-47b6-a8ec-e5a769ada6b2)---
 layout: post
 title: "Time Loops"
 ---
@@ -173,17 +173,16 @@ With South Korea being included among the countries eligible for visa-free entry
 </div>
 
 <div class="txt">
-  걷지 않아도 호흡하는 게 편해졌다
+  삼전 주가인 줄
 </div>
 
 
 
 <div class="img">
-  <img class="lazyload" src="https://github.com/user-attachments/assets/2e4f5a29-c672-4010-b99b-cfd5418e2eef">
+  <img class="lazyload" src="https://github.com/user-attachments/assets/5b1990be-abfa-4568-8c48-a272650d3bc3">
 </div>
 
-
 <div class="txt">
-  원주각의 정리(Inscribed Angle Theorem)를 그려 보았다
+  원주각의 정리(Inscribed Angle Theorem)를 그렸다
 </div>
 
