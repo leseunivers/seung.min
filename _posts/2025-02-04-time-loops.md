@@ -14,16 +14,13 @@ title: "Time Loops"
 
 
 
-
-
-
 <div class="img">
   <img class="lazyload" src="https://github.com/user-attachments/assets/36430ef3-723d-439f-918b-6b36e3258a48">
 </div>
 
 
 <div class="txt">
-  앞으로 어떤 영상을 찍어야 할지 모르겠다
+  앞으로 뭘 해야 할까?
 </div>
 
 
@@ -173,7 +170,7 @@ With South Korea being included among the countries eligible for visa-free entry
 </div>
 
 <div class="txt">
-  삼전 주가인 줄
+  삼전 주식인 줄
 </div>
 
 
@@ -183,6 +180,6 @@ With South Korea being included among the countries eligible for visa-free entry
 </div>
 
 <div class="txt">
-  원주각의 정리(Inscribed Angle Theorem)를 그렸다
+  원주각의 정리를 그렸다
 </div>
 
