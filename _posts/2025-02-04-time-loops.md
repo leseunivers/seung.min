@@ -184,6 +184,6 @@ With South Korea being included among the countries eligible for visa-free entry
 
 
 <div class="txt">
-  원주각의 정리(Inscribed Angle Theorem)를 그려 보았다.
+  원주각의 정리(Inscribed Angle Theorem)를 그려 보았다
 </div>
 
