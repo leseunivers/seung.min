@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>ESMNCE</title>
+    <description>Seungmin's Blog | 신승민 블로그</description>
+    <link>https://esmnce.com</link>
+    <image>
+    <url>https://esmnce.com/images/global.png</url>
+    <title>ESMNCE</title>
+    <link>https://esmnce.com</link>
+    </image>
+    <generator>https://rss.app</generator>
+    <lastBuildDate>Wed, 05 Feb 2025 14:49:58 GMT</lastBuildDate>
+    <atom:link href="https://rss.app/feeds/sYqjlCjlCcXQmPxR.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+
+    
+    <item>
+      
+      <title>Time Loops</title>
+      <description>Seungmin's Blog | 신승민 블로그</description>
+      <link>https://esmnce.com/2025/02/04/time-loops.html</link>
+      <guid isPermaLink="true">96d6eaa35ae9fa9d3159ed6760ad13a2</guid>
+      <dc:creator>SEUNG MIN SHIN</dc:creator>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    
+    
+    <item>
+      <title>2025</title>
+      <description>Seungmin's Blog | 신승민 블로그</description>
+      <link>https://esmnce.com/2025/01/09/2025.html</link>
+      <guid isPermaLink="true">3c3b2cf02ff924564a63240f19472a1c</guid>
+      <dc:creator>SEUNG MIN SHIN</dc:creator>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    
+    
+    <item>
+      <title>Hello, World!</title>
+      <description>Seungmin's Blog | 신승민 블로그</description>
+      <link>https://esmnce.com/2024/12/26/hello-world.html</link>
+      <guid isPermaLink="true">afbf211f38175fbe0dcb61980350ae39</guid>
+      <dc:creator>SEUNG MIN SHIN</dc:creator>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    
+    
+  </channel>
+</rss>
