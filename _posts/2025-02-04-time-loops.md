@@ -170,7 +170,7 @@ With South Korea being included among the countries eligible for visa-free entry
 </div>
 
 <div class="txt">
-  삼성전자 주가인 줄 알았다
+  삼성전자 주가인 줄
 </div>
 
 
