@@ -152,7 +152,7 @@ The original concept was based on a website I was developing for Ajou University
 
 <div class="txt">
 
-  90년대 감성 
+  90년대 풍경이다
   
 </div>
 
