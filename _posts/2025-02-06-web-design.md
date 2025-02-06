@@ -4,8 +4,9 @@ title: "Web design"
 ---
 
 <div class="img">
-  <img class="lazyload" src="https://github.com/user-attachments/assets/c0e4fb4e-fef3-47de-b89a-13981cf08205">
+  <img class="lazyload" src="https://github.com/user-attachments/assets/d675d0d2-6b02-4f2f-8421-91e8c4a90d59">
 </div>
+
 
 <div class="txt">
 
