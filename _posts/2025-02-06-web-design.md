@@ -10,6 +10,6 @@ title: "Web design"
 
 <div class="txt">
 
-  웹사이트 만들 때 오류가 나면 정말 힘들다
+  웹사이트 만들 때 오류가 나면 너무 힘들다
   
 </div>
