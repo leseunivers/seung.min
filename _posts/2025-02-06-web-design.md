@@ -10,6 +10,5 @@ title: "Web design"
 <div class="txt">
 
   웹사이트 만들다가 막히면 너무 고통스럽다 <br>
-  지금 테마를 바꾸고 있다
   
 </div>
