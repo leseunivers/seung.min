@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Painful process"
+title: "Web design"
 ---
 
 <div class="img">
@@ -8,6 +8,6 @@ title: "Painful process"
 </div>
 
 <div class="txt">
-  웹사이트 만드는 게 너무 고통스러운데 계속하고 싶어 <br>
-  지금 디자인에 만족할 수가 없어서 테마를 바꾸고 있어
+  웹사이트 만들다가 막히면 너무 고통스럽다 <br>
+  지금 디자인에 만족할 수가 없어서 테마를 바꾸고 있다
 </div>
