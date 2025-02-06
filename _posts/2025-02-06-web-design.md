@@ -3,7 +3,7 @@ layout: post
 title: "Web design"
 ---
 
-<div class="img">
+<div class="start">
   <img class="lazyload" src="https://github.com/user-attachments/assets/d675d0d2-6b02-4f2f-8421-91e8c4a90d59">
 </div>
 
